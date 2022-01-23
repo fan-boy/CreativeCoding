@@ -111,7 +111,7 @@ Project Link: [https://github.com/fan-boy/Portfolio-v2](https://github.com/fan-b
 [linkedin-url]: https://www.linkedin.com/in/aaditya-s-49936112b/
 [sketch1]: BasicLoops/loops1.png
 [sketch2]: BasicLoops/loops2.png
-[sketch3]: Color/rgb/color 3.png
+[sketch3]: Color/rgb/color3.png
 [sketch4]: Color/hsb/hues.png
-[sketch5]: MathFunctions/sin/circular nice.png
+[sketch5]: MathFunctions/sin/circularnice.png
 [sketch6]: random/newComplex.png
